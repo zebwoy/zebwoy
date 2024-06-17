@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin: 5px 0;
-        }
-    </style>
-</head>
-<body>
-
 <h1>👋 About Me</h1>
 <p>Hi there! I'm Ayman Shaikh, a passionate Software Developer with a degree in Computer Science, graduated in 2021. My journey into the world of computers started with a deep curiosity about technology and its limitless possibilities.</p>
 
@@ -55,6 +30,3 @@
     <li><a href="https://github.com/zebwoy/" target="_blank">Github</a></li>
     <li><a href="mailto:imanriyaj@gmail.com">Email</a></li>
 </ul>
-
-</body>
-</html>
