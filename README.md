@@ -65,9 +65,13 @@ This **iterative, feedback-driven workflow** allows me to deliver high-confidenc
 
 ---
 
-> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
-<br>
-> _“Knowledge without action is wasteful and action without knowledge is foolish.” – Imam al-Ghazali_
-<br>
-> _“One who enjoins good must have three qualities: knowledge, gentleness, and patience.
-    Knowledge comes before it, gentleness comes during it, and patience comes after it.” – Ibn Taymiyyah_
+> _“Strive not to be a success, but rather to be of value.”_  
+> — **Albert Einstein**
+
+> _“Knowledge without action is wasteful, and action without knowledge is foolish.”_  
+> — **Imam al-Ghazali**
+
+> _“Whoever calls others to good must possess three qualities: knowledge, gentleness, and patience. Knowledge guides before, gentleness accompanies during, and patience follows after.”_  
+> — **Ibn Taymiyyah**
+
+---
