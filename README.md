@@ -5,16 +5,17 @@
 <p><strong>Current Role:</strong> Software Developer</p>
 <p><strong>Responsibilities:</strong></p>
 <ul>
-    <li>💻 Full Stack Development</li>
-    <li>🛠️ L1 Support</li>
-    <li>🔧 Application Support</li>
-    <li>🚀 Core Development</li>
+    <li>Full Stack Development</li>
+    <li>L3 Support</li>
+    <li>Application Support</li>
+    <li>Core Development</li>
+    <li>Project Management</li>
 </ul>
 
 <h2>🔑 Key Skills</h2>
-<p><strong>Programming Languages:</strong> C#, VB, JS, SQL, HTML, CSS</p>
-<p><strong>Frameworks:</strong> ASP.NET MVC, WebForm, WinForm, Core</p>
-<p><strong>Database Management:</strong> MS SQL, PostgreSQL</p>
+<p><strong>Programming Languages:</strong> C#, VB, DHTML, JSX, CLI, SQL</p>
+<p><strong>Frameworks:</strong> ASP.NET MVC, WebForm, WinForm, Core, Angular</p>
+<p><strong>Database Management:</strong> MS SQL, MySQL, PostgreSQL</p>
 <p><strong>Tools & Technologies:</strong> Git, Visual Studio, VS Code, Azure DevOps, AWS DevOps, Docker, Postman</p>
 
 <h2>🎯 Interests</h2>
