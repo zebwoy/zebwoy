@@ -34,18 +34,19 @@
 
 <h2>⚒️ Working Habit</h2>
 <pre>
-    When I’m assigned a new feature, I begin by visualizing the end‑user experience and mapping
-    that vision to a high‑level technical flow—essentially working in a LIFO style so the most
-    recent priorities get immediate attention. With a clear design in mind, I use large
-    language models to generate an initial code draft. I review the output carefully,
-    and if it captures roughly 70 % of the functionality I need, I pull it into 
-    Visual Studio and refine it by hand.
+When I’m assigned a new feature, I begin by visualizing the end‑user experience and mapping
+that vision to a high‑level technical flow—essentially working in a LIFO style so the most
+recent priorities get immediate attention. With a clear design in mind, I use large
+language models to generate an initial code draft. I review the output carefully,
+and if it captures roughly 70 % of the functionality I need, I pull it into 
+Visual Studio and refine it by hand.
 
-    I compile early and often; the sooner I clear build‑time issues, the sooner I can expose runtime
-    errors and edge cases. My breakpoint strategy follows a strict hierarchy:
-        1. Critical variable assignments or calculations
-        2. SQL queries—which I also test in Azure Data Studio for quick validation
-        3. The entry point of the page or component (e.g., Page_Load) to trace overall execution
+I compile early and often; the sooner I clear build‑time issues, the sooner I can expose runtime
+errors and edge cases. My breakpoint strategy follows a strict hierarchy:
 
-    This iterative, feedback‑driven approach lets me deliver working code quickly while maintaining
-    a high level of confidence in its correctness.</pre>
+    1. Critical variable assignments or calculations
+    2. SQL queries—which I also test in Azure Data Studio for quick validation
+    3. The entry point of the page or component (e.g., Page_Load) to trace overall execution
+
+This iterative, feedback‑driven approach lets me deliver working code quickly while maintaining
+a high level of confidence in its correctness.</pre>
