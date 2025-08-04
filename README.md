@@ -64,7 +64,6 @@ This **iterative, feedback-driven workflow** allows me to deliver high-confidenc
 - [📧 Email Me](mailto:imanriyaj@gmail.com)
 
 <br>
-<br>
 
 > _“Strive not to be a success, but rather to be of value.”_  
 > — **Albert Einstein**
