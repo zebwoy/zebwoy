@@ -44,9 +44,9 @@ Visual Studio and refine it by hand.
 I compile early and often; the sooner I clear build‑time issues, the sooner I can expose runtime
 errors and edge cases. My breakpoint strategy follows a strict hierarchy:
 
-    1. Critical variable assignments or calculations
-    2. SQL queries—which I also test in Azure Data Studio for quick validation
-    3. The entry point of the page or component (e.g., Page_Load) to trace overall execution
+1. Critical variable assignments or calculations
+2. SQL queries—which I also test in Azure Data Studio for quick validation
+3. The entry point of the page or component (e.g., Page_Load) to trace overall execution
 
 This iterative, feedback‑driven approach lets me deliver working code quickly while maintaining
 a high level of confidence in its correctness.</pre>
