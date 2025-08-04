@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi there! I'm **Ayman Shaikh**, a passionate Software Developer with a degree in Computer Science (Class of 2016). My journey into the world of technology began with a deep curiosity about how things work and it’s only grown stronger ever since.
+Hi there! I'm **Ayman Shaikh**, a passionate Software Developer with a degree in Computer Science. My journey into the world of technology began with a deep curiosity about how things work and it’s only grown stronger ever since.
 
 ---
 
@@ -65,7 +65,7 @@ This **iterative, feedback-driven workflow** allows me to deliver high-confidenc
 
 ---
 
-> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
-> _“Knowledge without action is wasteful and action without knowledge is foolish.” – Imam al-Ghazali_
+> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_ <br>
+> _“Knowledge without action is wasteful and action without knowledge is foolish.” – Imam al-Ghazali_ <br>
 > _“One who enjoins good must have three qualities: knowledge, gentleness, and patience.
 Knowledge comes before it, gentleness comes during it, and patience comes after it.” – Ibn Taymiyyah_
