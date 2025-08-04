@@ -1,12 +1,13 @@
 # 👋 About Me
 
-Hi there! I'm **Ayman Shaikh**, a passionate Software Developer with a degree in Computer Science (Class of 2021). My journey into the world of technology began with a deep curiosity about how things work—and it’s only grown stronger ever since.
+Hi there! I'm **Ayman Shaikh**, a passionate Software Developer with a degree in Computer Science (Class of 2016). My journey into the world of technology began with a deep curiosity about how things work and it’s only grown stronger ever since.
 
 ---
 
 ## 🌟 Professional Experience
 
-**💼 Current Role:** Software Developer  
+**💼 Current Role:** Software Developer
+
 **🎯 Responsibilities:**
 - Full Stack Development  
 - L3 and Application Support  
@@ -65,3 +66,6 @@ This **iterative, feedback-driven workflow** allows me to deliver high-confidenc
 ---
 
 > _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
+> _“Knowledge without action is wasteful and action without knowledge is foolish.” – Imam al-Ghazali_
+> _“One who enjoins good must have three qualities: knowledge, gentleness, and patience.
+Knowledge comes before it, gentleness comes during it, and patience comes after it.” – Ibn Taymiyyah_
